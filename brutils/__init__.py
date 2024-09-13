@@ -101,3 +101,7 @@ from brutils.voter_id import (
 from brutils.voter_id import (
     is_valid as is_valid_voter_id,
 )
+
+from brutils.currency import (
+    convert_real_to_text,
+)
